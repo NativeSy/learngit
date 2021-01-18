@@ -1,4 +1,3 @@
-dfafadf
 Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
@@ -8,4 +7,3 @@ Add two time.
 Study revise.
 Creating a new branch is quick and simple?
 ?really simple?
-df3123yuiurioweuro
