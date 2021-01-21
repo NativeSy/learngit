@@ -8,6 +8,7 @@ Study revise.
 Creating a new branch is quick and simple?
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Creating a fdasf new branch is quick..
 =======
 yes, it is quick.
@@ -16,3 +17,6 @@ yes, it is quick.
 Creating a new 
 >>>>>>> 1809ed5df8378cdde684ca14d1be4eaa2e158dd3
 >>>>>>> 3e4a17f59d34b210c2449f7eefa9b766aeefa138
+=======
+Creating a new branch is quick.
+>>>>>>> 0713d2ab48503aeb4b8dac973a115b75ed9b0315
