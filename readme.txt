@@ -8,6 +8,5 @@ Study revise.
 Creating a new branch is quick and simple?
 RReally simple?
 <<<<<<< HEAD
-TEst
 test
 >>>>>>> feature1
