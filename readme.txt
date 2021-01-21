@@ -5,5 +5,6 @@ git tracks changes of files.
 Add one time.
 Add two time.
 Study revise.
+Study three time.
 Creating a new branch is quick and simple?
 Creating :wq
