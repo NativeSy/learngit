@@ -6,6 +6,6 @@ Add one time.
 Add two time.
 Study revise.
 Study three time.
-study six time.
+study seven time.
 Creating a new branch is quick and simple?
 Creating 
